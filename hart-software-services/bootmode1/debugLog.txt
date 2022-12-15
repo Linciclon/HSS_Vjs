@@ -1,0 +1,3 @@
+
+14:47:37 DEBUG - Looking for ELF file in the work directory.
+14:47:37 ERROR - Failed searching directory "C:\SOFTCONSOLE\hart-software-services-master\hart-software-services" for the ELF file.

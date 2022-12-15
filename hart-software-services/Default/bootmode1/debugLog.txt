@@ -1,0 +1,33 @@
+
+14:42:50 DEBUG - Looking for ELF file in the work directory.
+14:42:50 DEBUG - ELF file found: "hss-envm-wrapper.elf".
+14:42:50 INFO  - Selected boot mode "1 - non-secure boot from eNVM" and working in directory "C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\Default".
+14:42:50 DEBUG - Workdir=C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\Default die=MPFS250T_ES diePackage=FCVG484 bm=1 - non-secure boot from eNVM verify=false elf=hss-envm-wrapper.elf
+14:42:50 DEBUG - Invoking command: "C:\Microsemi\LiberoSoC_v2021_1\Designer\bin64\fpgenprog.exe new_project --location C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\Default/bootmode1/fpgenprogProject --target_die MPFS250T_ES --target_package FCVG484".
+14:42:50 DEBUG - Finished with exit code: "0".
+14:42:50 INFO  - Generating BIN file...
+14:42:50 DEBUG - Invoking command: "C:\Microchip\SoftConsole-v2021.1\/riscv-unknown-elf-gcc/bin/riscv64-unknown-elf-objcopy.exe --version".
+14:42:50 DEBUG - Finished with exit code: "0".
+14:42:50 DEBUG - Invoking command: "C:\Microchip\SoftConsole-v2021.1\/riscv-unknown-elf-gcc/bin/riscv64-unknown-elf-objcopy.exe -O binary C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\Default/hss-envm-wrapper.elf C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\Default/bootmode1/hss-envm-wrapper.bin ".
+14:42:51 DEBUG - Finished with exit code: "0".
+14:42:51 DEBUG - Size of the BIN file is "98592 (decimal)" or "0x00018120 (hex)".
+14:42:51 DEBUG - Invoking command: "C:\Microchip\SoftConsole-v2021.1\/riscv-unknown-elf-gcc/bin/riscv64-unknown-elf-readelf.exe --program-headers C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\Default/hss-envm-wrapper.elf ".
+14:42:51 DEBUG - Finished with exit code: "0".
+14:42:51 DEBUG - Entry point 0x20220100
+14:42:51 DEBUG - The detected entry address is "20220100".
+14:42:51 INFO  - Generating header...
+14:42:51 INFO  - Generating HEX file...
+14:42:51 DEBUG - Invoking command: "C:\Microchip\SoftConsole-v2021.1\/riscv-unknown-elf-gcc/bin/riscv64-unknown-elf-objcopy.exe -I binary -O ihex --change-section-lma *+0x20220000 C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\Default/bootmode1/hss-envm-wrapper-bm1-p0.bin C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\Default/bootmode1/hss-envm-wrapper-bm1-p0.hex ".
+14:42:51 DEBUG - Finished with exit code: "0".
+14:42:51 INFO  - Preparing for bitstream generation...
+14:42:51 DEBUG - Invoking command: "C:\Microsemi\LiberoSoC_v2021_1\Designer\bin64\fpgenprog.exe mss_boot_info --location C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\Default/bootmode1/fpgenprogProject --u_mss_bootmode 1 --u_mss_bootcfg 2022010020220100202201002022010020220100".
+14:42:51 DEBUG - Finished with exit code: "0".
+14:42:51 DEBUG - Invoking command: "C:\Microsemi\LiberoSoC_v2021_1\Designer\bin64\fpgenprog.exe envm_client --location C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\Default/bootmode1/fpgenprogProject --number_of_bytes 98848 --content_file_format intel-hex --content_file C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\Default/bootmode1/hss-envm-wrapper-bm1-p0.hex --start_page 0 --client_name bootmode1_0 --mem_file_base_address 20220000".
+14:42:51 DEBUG - Finished with exit code: "0".
+14:42:51 INFO  - Generating bitstream...
+14:42:51 DEBUG - Invoking command: "C:\Microsemi\LiberoSoC_v2021_1\Designer\bin64\fpgenprog.exe generate_bitstream --location C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\Default/bootmode1/fpgenprogProject".
+14:42:58 DEBUG - Finished with exit code: "0".
+14:42:58 INFO  - Programming the target...
+14:42:58 DEBUG - Invoking command: "C:\Microsemi\LiberoSoC_v2021_1\Designer\bin64\fpgenprog.exe run_action --location C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\Default/bootmode1/fpgenprogProject --action PROGRAM".
+14:43:07 DEBUG - Finished with exit code: "0".
+14:43:07 INFO  - mpfsBootmodeProgrammer completed successfully.

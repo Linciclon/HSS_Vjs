@@ -1,0 +1,85 @@
+menu "General Configuration Options"
+
+menu "Miscellaneous"
+config USE_PCIE
+	bool "Setup PCIe"
+	default y
+	help
+		Setup the PCIe prior to application load
+
+		If you don't know what to do here, say Y.
+
+config UART_SURRENDER
+	bool "HSS UART Surrender"
+	depends on OPENSBI && !SERVICE_TINYCLI_REGISTER
+        default n
+	help
+		If enabled, this feature "surrenders" MMUART0 after boot.  After this point,
+		HSS status messages will no longer be sent out MMUART0
+
+		This feature is not compatible with SERVICE_TINYCLI_REGISTER. If you want the
+		HSS to surrender MMUART0 UART after boot, do not enable SERVICE_TINYCLI_REGISTER.
+
+		If you do not know what to do here, say N.
+
+config OPENSBI
+	def_bool y
+	help
+		This feature enables support for the RISC-V OpenSBI.
+
+		If you don't know what to do here, say Y.
+
+config USE_IHC
+	bool "Use MiV Inter-hart Communication"
+	default y
+	help
+		Enable MiV Inter-Hart Communication (IHC)
+endmenu
+
+menu "OpenSBI"
+	visible if OPENSBI
+
+config PROVIDE_DTB
+	bool "Provide a DTB for OpenSBI"
+	depends on OPENSBI
+	default n
+	help
+		This feature enabling the building in of a device tree blob and the provision
+		of this blob to OpenSBI via the a1 register.
+
+                If this isn't needed, it is possible to save some space by removing it.
+
+		If you don't know what to do here, say Y.
+
+config DEFAULT_DEVICE_TREE
+	string "hifive-unleashed-a00-freedom-u540.dtb"
+	depends on PROVIDE_DTB
+	help
+		This option specifies the default Device Tree to be used.
+endmenu
+
+menu "Memory Options"
+config MEMTEST
+	bool "DDR Memory Tester"
+	default n
+	help
+		This feature enables a simple walking 1's style memory tester for the DDR.
+
+		If you don't know what to do here, say N.
+
+config USE_PDMA
+	bool "Use PDMA for memory-to-memory transfers"
+	default y
+        help
+		Use the PDMA for memory to memory transfers.
+
+config INITIALIZE_MEMORIES
+	bool "Initialize memories to zero"
+	default y
+        help
+		Initialize memories to zero, to seed ECC.
+		
+		If you don't know what to do here, say N for now.
+endmenu
+
+endmenu

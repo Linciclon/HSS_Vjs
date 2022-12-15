@@ -1,0 +1,30 @@
+------------------
+hss_boot_service.h
+------------------
+	line 117: comment this line, "{ (const stateType_t)BOOT_OPENSBI_INIT,       (const char *)"OpenSBIInit",      &boot_opensbi_init_onEntry,       &boot_opensbi_init_onExit,    &boot_opensbi_init_handler },"
+
+	boot_opensbi_init_handler: 
+	line 639: put IPI_MSG_GOTO instead of IPI_MSG_OPENSBI_INIT
+	line 654: comment this line, "pMyMachine->state = BOOT_WAIT;"
+	line 655: comment this line, "pMyMachine->state = BOOT_IDLE;"
+	add: 
+	        result = IPI_MessageAlloc(&(pInstanceData->msgIndex)); //joao
+                assert(result); //joao
+                mb();//joao
+                mb_i();//joao
+                result = IPI_MessageDeliver(pInstanceData->msgIndex, target, //joao
+                IPI_MSG_GOTO,
+                pBootImage->hart[target-1].privMode,
+                (void *)pBootImage->hart[target-1].entryPoint,
+                (void *)pInstanceData->ancilliaryData);
+                assert(result); //joao
+ 		pMyMachine->state = BOOT_IDLE; //joao
+
+
+----------------------
+	yaml_parser.c:
+	change:
+	line 1032: bootImage.hart[0].flags = BOOT_FLAG_SKIP_OPENSBI;//0u;joao
+	line 1033: bootImage.hart[1].flags = BOOT_FLAG_SKIP_OPENSBI;//0u;joao
+	line 1034: bootImage.hart[2].flags = BOOT_FLAG_SKIP_OPENSBI;//0u;joao
+	line 1035: bootImage.hart[3].flags = BOOT_FLAG_SKIP_OPENSBI;//0u;joao

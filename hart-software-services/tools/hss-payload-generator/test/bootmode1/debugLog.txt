@@ -1,0 +1,6 @@
+
+14:48:35 DEBUG - Looking for ELF file in the work directory.
+14:48:35 DEBUG - ELF file found: "baremetal.elf".
+14:48:35 INFO  - Selected boot mode "1 - non-secure boot from eNVM" and working in directory "C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\tools\hss-payload-generator\test".
+14:48:35 DEBUG - Workdir=C:\SOFTCONSOLE\hart-software-services-master\hart-software-services\tools\hss-payload-generator\test die=MPFS250T_ES diePackage=FCVG484 bm=1 - non-secure boot from eNVM verify=false elf=baremetal.elf
+14:48:35 ERROR - The FPGENPROG environment variable needs to point to the binary directly (including the "fpgenprog.exe" binary file).
