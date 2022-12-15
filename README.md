@@ -12,7 +12,7 @@ Note:
 - All modifications here were applied over HSS 2021.11 version:
 https://github.com/polarfire-soc/hart-software-services/releases
 
-- If you are curious about changes, search for tag **FIX** comments at all repo. 
+- If you are curious about changes, search for tag **FIX** at all repo comments. 
 -----------------
 
 ## With this repo:
