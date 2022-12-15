@@ -632,7 +632,7 @@ static void boot_opensbi_init_handler(struct StateMachine * const pMyMachine)
                             (void *)pInstanceData->ancilliaryData);
                         assert(result);
                     } else {
-                        mHSS_DEBUG_PRINTF(LOG_NORMAL, "%s::u54_%u:sbi_init %p" CRLF, pMyMachine->pMachineName,
+                        mHSS_DEBUG_PRINTF(LOG_NORMAL, "%s::(jonnyhere)u54_%u:sbi_init %p" CRLF, pMyMachine->pMachineName,
                             peer, pBootImage->hart[peer-1].entryPoint);
 
                         result = IPI_MessageDeliver(pInstanceData->msgIndexAux[peer-1], peer,
@@ -665,6 +665,19 @@ static void boot_opensbi_init_handler(struct StateMachine * const pMyMachine)
                 (void *)pInstanceData->ancilliaryData);
                 assert(result); //FIX
 
+                /*
+                if (check_for_ipi_acks(pMyMachine)) { //FIX
+                    #if IS_ENABLED(CONFIG_PLATFORM_MPFS)
+                        // turn appropriate bit on in SYSREGSCB:MSS_STATUS:BOOT_STATUS to indicate it is up
+                        // note: this bit is a status indicator to SW only, and is not functional/does not have side effects
+                        mHSS_ReadModWriteRegU32(SYSREGSCB, MSS_STATUS, 0xFFFFu, 1u << (target-1));
+                    #endif
+
+                    mHSS_DEBUG_PRINTF(LOG_NORMAL, "%s::Checking for IPI ACKs: ACK/IDLE ACK" CRLF,
+                    pMyMachine->pMachineName);
+                    pMyMachine->state = BOOT_IDLE;
+                }
+                */
                 pMyMachine->state = BOOT_IDLE; //FIX
 
             }

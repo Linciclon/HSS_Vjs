@@ -215,8 +215,8 @@ __attribute__((weak))  void pmp_master_configs(uint8_t hart_id, uint64_t * pmp0c
 #define  SCRATCH_512K_FROM_BASE                    0x280FFFFULL   /* 512K LIM */
         *pmp0cfg &= HSS_CLOSED_CFG_MASK;
         *pmp0cfg |= 0x9F009F9FULL;  /* open 0,1 and 3 to allow open access */
-        write_csr(pmpaddr0, OPEN_M_ACCESS_HSS_PMP1_LIM_EG0); //FIX:the prev value was eg1
-        write_csr(pmpaddr1, OPEN_M_ACCESS_HSS_PMP1_SCRATCH_EG0); //FIX:the prev value was EG1
+        write_csr(pmpaddr0, OPEN_M_ACCESS_HSS_PMP1_LIM_EG0); //FIX, previous value: was eg1
+        write_csr(pmpaddr1, OPEN_M_ACCESS_HSS_PMP1_SCRATCH_EG0); //FIX, previous value: was EG1
         write_csr(pmpaddr2, 0ULL);
         write_csr(pmpaddr3, OPEN_DEBUG_ACCESS_PMP3);
     }

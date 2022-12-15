@@ -1,0 +1,1695 @@
+
+Discarded input sections
+
+ .bss           0x0000000000000000        0x0 envm-wrapper/envm-wrapper_crt.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_validate_crc.o
+ .text          0x0000000000000000        0x0 envm-wrapper/envm-wrapper_validate_crc.o
+ .data          0x0000000000000000        0x0 envm-wrapper/envm-wrapper_validate_crc.o
+ .bss           0x0000000000000000        0x0 envm-wrapper/envm-wrapper_validate_crc.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc envm-wrapper/envm-wrapper_stubs.o
+ .text          0x0000000000000000        0x0 envm-wrapper/envm-wrapper_stubs.o
+ .data          0x0000000000000000        0x0 envm-wrapper/envm-wrapper_stubs.o
+ .bss           0x0000000000000000        0x0 envm-wrapper/envm-wrapper_stubs.o
+ .text.HSS_ShowProgress
+                0x0000000000000000        0x2 envm-wrapper/envm-wrapper_stubs.o
+ .text.uart_putstring
+                0x0000000000000000        0x4 envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000      0x790 envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000      0x174 envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000       0x22 envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000       0x52 envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000       0x19 envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000       0x5c envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000       0x34 envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000       0xfd envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000       0x57 envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000       0x6a envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000      0x1df envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000       0x35 envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000       0x3a envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000       0x1c envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000       0x58 envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000000000       0x10 envm-wrapper/envm-wrapper_stubs.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc application/hart0/hss_clock.o
+ .text          0x0000000000000000        0x0 application/hart0/hss_clock.o
+ .data          0x0000000000000000        0x0 application/hart0/hss_clock.o
+ .bss           0x0000000000000000        0x0 application/hart0/hss_clock.o
+ .text.HSS_GetTime
+                0x0000000000000000        0x8 application/hart0/hss_clock.o
+ .text.HSS_GetTickCount
+                0x0000000000000000        0x8 application/hart0/hss_clock.o
+ .text.HSS_Timer_IsElapsed
+                0x0000000000000000       0x22 application/hart0/hss_clock.o
+ .text.HSS_SpinDelay_MilliSecs
+                0x0000000000000000       0x32 application/hart0/hss_clock.o
+ .text.HSS_SpinDelay_Secs
+                0x0000000000000000       0x36 application/hart0/hss_clock.o
+ .debug_info    0x0000000000000000      0x44d application/hart0/hss_clock.o
+ .debug_abbrev  0x0000000000000000      0x1c9 application/hart0/hss_clock.o
+ .debug_loc     0x0000000000000000      0x14f application/hart0/hss_clock.o
+ .debug_aranges
+                0x0000000000000000       0x70 application/hart0/hss_clock.o
+ .debug_ranges  0x0000000000000000      0x150 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000      0x171 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000      0x790 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000      0x11e application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000      0x174 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x88 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x6d application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x22 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x52 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x19 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x5c application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x34 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0xfd application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x3a application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x57 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x6a application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000      0x1df application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x35 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000      0x4cc application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x3a application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x1c application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x58 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x4c application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000      0xeb7 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0xb1 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x62 application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x7c application/hart0/hss_clock.o
+ .debug_macro   0x0000000000000000       0x10 application/hart0/hss_clock.o
+ .debug_line    0x0000000000000000      0x5fd application/hart0/hss_clock.o
+ .debug_str     0x0000000000000000     0xa338 application/hart0/hss_clock.o
+ .comment       0x0000000000000000       0x52 application/hart0/hss_clock.o
+ .debug_frame   0x0000000000000000       0xb8 application/hart0/hss_clock.o
+ .riscv.attributes
+                0x0000000000000000       0x2b application/hart0/hss_clock.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc init/hss_sys_setup.o
+ .text          0x0000000000000000        0x0 init/hss_sys_setup.o
+ .data          0x0000000000000000        0x0 init/hss_sys_setup.o
+ .bss           0x0000000000000000        0x0 init/hss_sys_setup.o
+ .text.HSS_Setup_PAD_IO
+                0x0000000000000000       0x14 init/hss_sys_setup.o
+ .text.HSS_Setup_PLIC
+                0x0000000000000000      0x106 init/hss_sys_setup.o
+ .text.HSS_Setup_MPU
+                0x0000000000000000       0x14 init/hss_sys_setup.o
+ .text.HSS_Setup_L2Cache
+                0x0000000000000000       0x14 init/hss_sys_setup.o
+ .text.HSS_Setup_BusErrorUnit
+                0x0000000000000000       0x14 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000      0x11e init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000      0x174 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x88 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x6d init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x22 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x52 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x19 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x34 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0xfd init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x3a init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x57 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x6a init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000      0x1df init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x35 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000      0x4cc init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x3a init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x1c init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x58 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x1c init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x16 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x43 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x34 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x10 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x58 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000      0x182 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000      0x339 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x10 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x4c init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000      0xeb7 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0xb1 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x62 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x7c init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x10 init/hss_sys_setup.o
+ .debug_macro   0x0000000000000000       0x22 init/hss_sys_setup.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc modules/misc/hss_crc32.o
+ .text          0x0000000000000000        0x0 modules/misc/hss_crc32.o
+ .data          0x0000000000000000        0x0 modules/misc/hss_crc32.o
+ .bss           0x0000000000000000        0x0 modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000      0x790 modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000      0x11e modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000      0x174 modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0x88 modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0x6d modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0x22 modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0x52 modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0x19 modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0x5c modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0x34 modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0xfd modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0x3a modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0x57 modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0x6a modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000      0x1df modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0x35 modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000      0x4cc modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0x3a modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0x1c modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000000000       0x58 modules/misc/hss_crc32.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .text          0x0000000000000000        0x0 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .data          0x0000000000000000        0x0 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .bss           0x0000000000000000        0x0 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .text.config_l2_cache
+                0x0000000000000000       0xd8 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .rodata.config_l2_cache.cst8
+                0x0000000000000000        0x8 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_info    0x0000000000000000    0x1f8a2 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_abbrev  0x0000000000000000      0x364 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_loc     0x0000000000000000      0x175 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_aranges
+                0x0000000000000000       0x30 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_ranges  0x0000000000000000       0x20 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000      0x4dd baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000      0x78a baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x22 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x52 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x19 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x94 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x34 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x34 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x16 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x57 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x97 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000      0x339 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0xfd baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x10 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x16 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x43 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x34 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x10 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x58 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000      0x182 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x10 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x6a baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x1c baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x52 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x40 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x10 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x40 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0xd5 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x1c baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x3d baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x16 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000      0x16f baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x16 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x35 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x22 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0xfd baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000      0x1df baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x10 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x5e baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000     0x3bba baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x20 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x22 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x20 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x34 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x88 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000      0x110 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x5e baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0xc8 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x28 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x70 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000     0x18ca baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x52 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0xa6 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x28 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x7c baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x7b baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x7b baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x7b baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x7b baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x7b baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x6d baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x6d baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x3a baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x22 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x3a baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x3a baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x22 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x22 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x3a baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x16 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x22 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0xdd baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0xd6 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x1c baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x4a baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x28 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000      0x10b baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x10 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x16 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x6d baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000      0x9dd baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x3a baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x22 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x57 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x5e baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x5e baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x40 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x28 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x16 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000      0x392 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x1c baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x16 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000      0x325 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x22 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0xee baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x87 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x10 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x28 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x64 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x89 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x8d baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x28 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0xa8 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000      0x10e baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x16 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_macro   0x0000000000000000       0x16 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_line    0x0000000000000000     0x101b baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_str     0x0000000000000000    0x49a5b baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .comment       0x0000000000000000       0x52 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .debug_frame   0x0000000000000000       0x28 baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .riscv.attributes
+                0x0000000000000000       0x2b baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/csr_helper.o
+ .text          0x0000000000000000        0x0 modules/misc/csr_helper.o
+ .data          0x0000000000000000        0x0 modules/misc/csr_helper.o
+ .bss           0x0000000000000000        0x0 modules/misc/csr_helper.o
+ .text.CSR_GetTickCount
+                0x0000000000000000        0x6 modules/misc/csr_helper.o
+ .text.CSR_GetTime
+                0x0000000000000000        0xa modules/misc/csr_helper.o
+ .text.CSR_ClearMSIP
+                0x0000000000000000       0xca modules/misc/csr_helper.o
+ .rodata.CSR_ClearMSIP.str1.8
+                0x0000000000000000       0x42 modules/misc/csr_helper.o
+ .rodata.__func__.1593
+                0x0000000000000000        0xe modules/misc/csr_helper.o
+ .debug_info    0x0000000000000000      0x400 modules/misc/csr_helper.o
+ .debug_abbrev  0x0000000000000000      0x1be modules/misc/csr_helper.o
+ .debug_loc     0x0000000000000000       0x59 modules/misc/csr_helper.o
+ .debug_aranges
+                0x0000000000000000       0x50 modules/misc/csr_helper.o
+ .debug_ranges  0x0000000000000000       0x70 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000      0x1a1 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000      0x78a modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000      0x11e modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000      0x174 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x88 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x6d modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x22 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x52 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x19 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x94 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x34 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0xfd modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x3a modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x57 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x6a modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000      0x1df modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x35 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000      0x4cc modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x3a modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x1c modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x58 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x4c modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000      0xeb7 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0xb1 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x62 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x7c modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x10 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x16 modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000      0x3ec modules/misc/csr_helper.o
+ .debug_macro   0x0000000000000000       0x1c modules/misc/csr_helper.o
+ .debug_line    0x0000000000000000      0x56e modules/misc/csr_helper.o
+ .debug_str     0x0000000000000000     0xbe65 modules/misc/csr_helper.o
+ .comment       0x0000000000000000       0x52 modules/misc/csr_helper.o
+ .debug_frame   0x0000000000000000       0x70 modules/misc/csr_helper.o
+ .riscv.attributes
+                0x0000000000000000       0x2b modules/misc/csr_helper.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/assert.o
+ .text          0x0000000000000000        0x0 modules/misc/assert.o
+ .data          0x0000000000000000        0x0 modules/misc/assert.o
+ .bss           0x0000000000000000        0x0 modules/misc/assert.o
+ .text.__assert_fail
+                0x0000000000000000        0xc modules/misc/assert.o
+ .debug_macro   0x0000000000000000      0x78a modules/misc/assert.o
+ .debug_macro   0x0000000000000000      0x11e modules/misc/assert.o
+ .debug_macro   0x0000000000000000      0x174 modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x88 modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x6d modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x22 modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x52 modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x19 modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x94 modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x34 modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0xfd modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x3a modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x57 modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x6a modules/misc/assert.o
+ .debug_macro   0x0000000000000000      0x1df modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x35 modules/misc/assert.o
+ .debug_macro   0x0000000000000000      0x4cc modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x3a modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x1c modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x58 modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x16 modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x43 modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x34 modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x10 modules/misc/assert.o
+ .debug_macro   0x0000000000000000       0x58 modules/misc/assert.o
+ .debug_macro   0x0000000000000000      0x182 modules/misc/assert.o
+ .debug_macro   0x0000000000000000      0x339 modules/misc/assert.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/c_stubs.o
+ .text          0x0000000000000000        0x0 modules/misc/c_stubs.o
+ .data          0x0000000000000000        0x0 modules/misc/c_stubs.o
+ .bss           0x0000000000000000        0x0 modules/misc/c_stubs.o
+ .text.strnlen  0x0000000000000000       0x16 modules/misc/c_stubs.o
+ .text.memcmp   0x0000000000000000        0x8 modules/misc/c_stubs.o
+ .text.strlen   0x0000000000000000        0x8 modules/misc/c_stubs.o
+ .text.tolower  0x0000000000000000       0x10 modules/misc/c_stubs.o
+ .text.strncasecmp
+                0x0000000000000000       0x6e modules/misc/c_stubs.o
+ .text.strtok_r
+                0x0000000000000000       0x42 modules/misc/c_stubs.o
+ .text.strncmp  0x0000000000000000       0x76 modules/misc/c_stubs.o
+ .text.__bswapdi2
+                0x0000000000000000       0x56 modules/misc/c_stubs.o
+ .text.strtoul  0x0000000000000000       0xd2 modules/misc/c_stubs.o
+ .rodata.strncmp.str1.8
+                0x0000000000000000        0xb modules/misc/c_stubs.o
+ .rodata.strtoul.str1.8
+                0x0000000000000000        0x5 modules/misc/c_stubs.o
+ .sdata2.__func__.2376
+                0x0000000000000000        0x8 modules/misc/c_stubs.o
+ .sdata2.__func__.2395
+                0x0000000000000000        0x8 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000      0x78a modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000      0x11e modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000      0x174 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x88 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x6d modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x22 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x52 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x19 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x94 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x34 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0xfd modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x3a modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x57 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x6a modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000      0x1df modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x35 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000      0x4cc modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x3a modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x1c modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x58 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x1c modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x16 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x16 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x43 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x34 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x10 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x58 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000      0x182 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000      0x339 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x16 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x29 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x16 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x4c modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000      0xeb7 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0xb1 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x62 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x7c modules/misc/c_stubs.o
+ .debug_macro   0x0000000000000000       0x10 modules/misc/c_stubs.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc modules/misc/stack_guard.o
+ .text          0x0000000000000000        0x0 modules/misc/stack_guard.o
+ .data          0x0000000000000000        0x0 modules/misc/stack_guard.o
+ .bss           0x0000000000000000        0x0 modules/misc/stack_guard.o
+ .text.__stack_chk_guard_setup
+                0x0000000000000000        0x2 modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000      0x78a modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000      0x11e modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000      0x174 modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0x88 modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0x6d modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0x22 modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0x52 modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0x19 modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0x94 modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0x34 modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0xfd modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0x3a modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0x57 modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0x6a modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000      0x1df modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0x35 modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000      0x4cc modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0x3a modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0x1c modules/misc/stack_guard.o
+ .debug_macro   0x0000000000000000       0x58 modules/misc/stack_guard.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .group         0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .text          0x0000000000000000        0x0 thirdparty/miniz/miniz.o
+ .data          0x0000000000000000        0x0 thirdparty/miniz/miniz.o
+ .bss           0x0000000000000000        0x0 thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_add_put_buf_callback
+                0x0000000000000000       0x3c thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_create_zip64_extra_data
+                0x0000000000000000       0xac thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_compute_padding_needed_for_file_alignment
+                0x0000000000000000       0x1c thirdparty/miniz/miniz.o
+ .text.miniz_def_realloc_func
+                0x0000000000000000        0xe thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_end_internal
+                0x0000000000000000       0x98 thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_end_internal
+                0x0000000000000000       0xb6 thirdparty/miniz/miniz.o
+ .text.tdefl_optimize_huffman_table
+                0x0000000000000000      0x606 thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_write_zeros
+                0x0000000000000000       0xc4 thirdparty/miniz/miniz.o
+ .text.tdefl_start_static_block
+                0x0000000000000000       0xf4 thirdparty/miniz/miniz.o
+ .text.tdefl_flush_output_buffer
+                0x0000000000000000       0x78 thirdparty/miniz/miniz.o
+ .text.tdefl_output_buffer_putter
+                0x0000000000000000       0x74 thirdparty/miniz/miniz.o
+ .text.mz_zip_mem_read_func
+                0x0000000000000000       0x36 thirdparty/miniz/miniz.o
+ .text.mz_zip_heap_write_func
+                0x0000000000000000       0x90 thirdparty/miniz/miniz.o
+ .text.tdefl_start_dynamic_block
+                0x0000000000000000      0x744 thirdparty/miniz/miniz.o
+ .text.tdefl_compress_lz_codes
+                0x0000000000000000      0x42c thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_init_internal
+                0x0000000000000000       0xac thirdparty/miniz/miniz.o
+ .text.mz_zip_array_ensure_capacity
+                0x0000000000000000       0x74 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_is_file_encrypted.part.9
+                0x0000000000000000       0x2a thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_create_local_dir_header.isra.2.constprop.16
+                0x0000000000000000       0x6e thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_add_to_central_dir.constprop.17
+                0x0000000000000000      0x31c thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_read_central_dir
+                0x0000000000000000      0xa74 thirdparty/miniz/miniz.o
+ .text.tdefl_flush_block
+                0x0000000000000000      0x572 thirdparty/miniz/miniz.o
+ .text.mz_adler32
+                0x0000000000000000       0xb4 thirdparty/miniz/miniz.o
+ .text.mz_crc32
+                0x0000000000000000       0xc8 thirdparty/miniz/miniz.o
+ .text.mz_zip_compute_crc32_callback
+                0x0000000000000000       0x28 thirdparty/miniz/miniz.o
+ .text.mz_free  0x0000000000000000        0x8 thirdparty/miniz/miniz.o
+ .text.mz_version
+                0x0000000000000000        0xa thirdparty/miniz/miniz.o
+ .text.mz_deflateBound
+                0x0000000000000000       0x34 thirdparty/miniz/miniz.o
+ .text.mz_compressBound
+                0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .text.mz_inflateReset
+                0x0000000000000000       0x3e thirdparty/miniz/miniz.o
+ .text.mz_inflateEnd
+                0x0000000000000000        0x8 thirdparty/miniz/miniz.o
+ .text.mz_error
+                0x0000000000000000       0x2a thirdparty/miniz/miniz.o
+ .text.tdefl_compress
+                0x0000000000000000      0x980 thirdparty/miniz/miniz.o
+ .text.mz_deflate
+                0x0000000000000000      0x11e thirdparty/miniz/miniz.o
+ .text.tdefl_compress_buffer
+                0x0000000000000000       0x44 thirdparty/miniz/miniz.o
+ .text.tdefl_init
+                0x0000000000000000      0x10a thirdparty/miniz/miniz.o
+ .text.mz_deflateReset
+                0x0000000000000000       0x3c thirdparty/miniz/miniz.o
+ .text.tdefl_get_prev_return_status
+                0x0000000000000000        0x6 thirdparty/miniz/miniz.o
+ .text.tdefl_get_adler32
+                0x0000000000000000        0x4 thirdparty/miniz/miniz.o
+ .text.tdefl_compress_mem_to_output
+                0x0000000000000000       0x7c thirdparty/miniz/miniz.o
+ .text.tdefl_compress_mem_to_heap
+                0x0000000000000000       0x7c thirdparty/miniz/miniz.o
+ .text.tdefl_compress_mem_to_mem
+                0x0000000000000000       0x7a thirdparty/miniz/miniz.o
+ .text.tdefl_create_comp_flags_from_zip_params
+                0x0000000000000000       0x6c thirdparty/miniz/miniz.o
+ .text.mz_deflateInit2
+                0x0000000000000000       0xc2 thirdparty/miniz/miniz.o
+ .text.mz_deflateInit
+                0x0000000000000000       0x10 thirdparty/miniz/miniz.o
+ .text.mz_compress2
+                0x0000000000000000       0xc0 thirdparty/miniz/miniz.o
+ .text.mz_compress
+                0x0000000000000000        0xa thirdparty/miniz/miniz.o
+ .text.tdefl_write_image_to_png_file_in_memory_ex
+                0x0000000000000000      0x29c thirdparty/miniz/miniz.o
+ .text.tdefl_write_image_to_png_file_in_memory
+                0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .text.tdefl_compressor_alloc
+                0x0000000000000000       0x10 thirdparty/miniz/miniz.o
+ .text.tdefl_compressor_free
+                0x0000000000000000        0x8 thirdparty/miniz/miniz.o
+ .text.tinfl_decompress_mem_to_heap
+                0x0000000000000000      0x150 thirdparty/miniz/miniz.o
+ .text.tinfl_decompress_mem_to_mem
+                0x0000000000000000       0x90 thirdparty/miniz/miniz.o
+ .text.tinfl_decompress_mem_to_callback
+                0x0000000000000000      0x160 thirdparty/miniz/miniz.o
+ .text.tinfl_decompressor_alloc
+                0x0000000000000000       0x1e thirdparty/miniz/miniz.o
+ .text.tinfl_decompressor_free
+                0x0000000000000000        0x8 thirdparty/miniz/miniz.o
+ .text.mz_zip_zero_struct
+                0x0000000000000000       0x12 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_end
+                0x0000000000000000        0xa thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_init
+                0x0000000000000000       0x62 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_init_mem
+                0x0000000000000000       0x88 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_is_file_encrypted
+                0x0000000000000000       0x82 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_is_file_supported
+                0x0000000000000000       0x98 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_is_file_a_directory
+                0x0000000000000000       0x86 thirdparty/miniz/miniz.o
+ .text.mz_zip_file_stat_internal.part.10
+                0x0000000000000000      0x39c thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_locate_file_v2
+                0x0000000000000000      0x388 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_locate_file
+                0x0000000000000000       0x3c thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_extract_iter_read
+                0x0000000000000000      0x1fc thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_extract_iter_free
+                0x0000000000000000       0x7e thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_init_v2
+                0x0000000000000000       0xc4 thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_init
+                0x0000000000000000        0xa thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_init_heap_v2
+                0x0000000000000000       0x90 thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_init_heap
+                0x0000000000000000        0xa thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_init_from_reader_v2
+                0x0000000000000000       0xb6 thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_init_from_reader
+                0x0000000000000000        0xa thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_add_mem_ex_v2
+                0x0000000000000000      0x5f8 thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_add_mem_ex
+                0x0000000000000000       0x20 thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_add_mem
+                0x0000000000000000       0x1c thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_add_read_buf_callback
+                0x0000000000000000      0x5a8 thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_add_from_zip_reader
+                0x0000000000000000      0xac2 thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_finalize_archive
+                0x0000000000000000      0x1c0 thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_finalize_heap_archive
+                0x0000000000000000       0x74 thirdparty/miniz/miniz.o
+ .text.mz_zip_writer_end
+                0x0000000000000000        0xa thirdparty/miniz/miniz.o
+ .text.mz_zip_get_mode
+                0x0000000000000000        0xa thirdparty/miniz/miniz.o
+ .text.mz_zip_get_type
+                0x0000000000000000        0xa thirdparty/miniz/miniz.o
+ .text.mz_zip_set_last_error
+                0x0000000000000000        0xe thirdparty/miniz/miniz.o
+ .text.mz_zip_peek_last_error
+                0x0000000000000000        0xa thirdparty/miniz/miniz.o
+ .text.mz_zip_clear_last_error
+                0x0000000000000000       0x10 thirdparty/miniz/miniz.o
+ .text.mz_zip_get_last_error
+                0x0000000000000000       0x10 thirdparty/miniz/miniz.o
+ .text.mz_zip_get_error_string
+                0x0000000000000000       0x22 thirdparty/miniz/miniz.o
+ .text.mz_zip_is_zip64
+                0x0000000000000000       0x10 thirdparty/miniz/miniz.o
+ .text.mz_zip_get_central_dir_size
+                0x0000000000000000       0x10 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_get_num_files
+                0x0000000000000000        0xa thirdparty/miniz/miniz.o
+ .text.mz_zip_get_archive_size
+                0x0000000000000000        0xa thirdparty/miniz/miniz.o
+ .text.mz_zip_get_archive_file_start_offset
+                0x0000000000000000       0x10 thirdparty/miniz/miniz.o
+ .text.mz_zip_get_cfile
+                0x0000000000000000        0xa thirdparty/miniz/miniz.o
+ .text.mz_zip_read_archive_data
+                0x0000000000000000       0x1c thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_get_filename
+                0x0000000000000000       0xe4 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_file_stat
+                0x0000000000000000       0x90 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_extract_to_mem_no_alloc.part.13
+                0x0000000000000000      0x2d6 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_extract_to_mem_no_alloc
+                0x0000000000000000       0x2c thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_extract_file_to_mem_no_alloc
+                0x0000000000000000       0x6c thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_extract_file_to_mem
+                0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_extract_to_mem
+                0x0000000000000000        0xc thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_extract_to_heap
+                0x0000000000000000      0x136 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_extract_file_to_heap
+                0x0000000000000000       0x68 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_extract_to_callback.part.14
+                0x0000000000000000      0x3da thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_extract_to_callback
+                0x0000000000000000       0x26 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_extract_file_to_callback
+                0x0000000000000000       0x64 thirdparty/miniz/miniz.o
+ .text.mz_zip_validate_file
+                0x0000000000000000      0x4c8 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_extract_iter_new
+                0x0000000000000000      0x188 thirdparty/miniz/miniz.o
+ .text.mz_zip_reader_extract_file_iter_new
+                0x0000000000000000       0x5a thirdparty/miniz/miniz.o
+ .text.mz_zip_validate_archive
+                0x0000000000000000       0xfe thirdparty/miniz/miniz.o
+ .text.mz_zip_validate_mem_archive
+                0x0000000000000000       0xb4 thirdparty/miniz/miniz.o
+ .text.mz_zip_end
+                0x0000000000000000       0x24 thirdparty/miniz/miniz.o
+ .rodata        0x0000000000000000       0x41 thirdparty/miniz/miniz.o
+ .rodata.CSWTCH.355
+                0x0000000000000000      0x100 thirdparty/miniz/miniz.o
+ .rodata.__func__.3016
+                0x0000000000000000       0x1a thirdparty/miniz/miniz.o
+ .rodata.__func__.3093
+                0x0000000000000000       0x18 thirdparty/miniz/miniz.o
+ .rodata.__func__.3143
+                0x0000000000000000       0x12 thirdparty/miniz/miniz.o
+ .rodata.__func__.3242
+                0x0000000000000000       0x11 thirdparty/miniz/miniz.o
+ .rodata.__func__.3261
+                0x0000000000000000       0x13 thirdparty/miniz/miniz.o
+ .rodata.__func__.3293
+                0x0000000000000000       0x16 thirdparty/miniz/miniz.o
+ .rodata.__func__.3315
+                0x0000000000000000       0x16 thirdparty/miniz/miniz.o
+ .rodata.__func__.3881
+                0x0000000000000000       0x19 thirdparty/miniz/miniz.o
+ .rodata.__func__.3898
+                0x0000000000000000       0x1d thirdparty/miniz/miniz.o
+ .rodata.__func__.4588
+                0x0000000000000000       0x1c thirdparty/miniz/miniz.o
+ .rodata.__func__.4626
+                0x0000000000000000       0x24 thirdparty/miniz/miniz.o
+ .rodata.__func__.4701
+                0x0000000000000000       0x22 thirdparty/miniz/miniz.o
+ .rodata.mz_bitmasks
+                0x0000000000000000       0x44 thirdparty/miniz/miniz.o
+ .rodata.mz_version.str1.8
+                0x0000000000000000        0x7 thirdparty/miniz/miniz.o
+ .rodata.mz_zip_array_ensure_capacity.str1.8
+                0x0000000000000000       0x17 thirdparty/miniz/miniz.o
+ .rodata.mz_zip_get_error_string.str1.8
+                0x0000000000000000        0xe thirdparty/miniz/miniz.o
+ .rodata.mz_zip_reader_is_file_encrypted.part.9.str1.8
+                0x0000000000000000       0x17 thirdparty/miniz/miniz.o
+ .rodata.mz_zip_reader_locate_file_v2.cst8
+                0x0000000000000000        0x8 thirdparty/miniz/miniz.o
+ .rodata.mz_zip_writer_add_mem_ex_v2.str1.8
+                0x0000000000000000       0x74 thirdparty/miniz/miniz.o
+ .rodata.mz_zip_writer_add_read_buf_callback.str1.8
+                0x0000000000000000       0x42 thirdparty/miniz/miniz.o
+ .rodata.mz_zip_writer_finalize_archive.cst8
+                0x0000000000000000        0x8 thirdparty/miniz/miniz.o
+ .rodata.s_crc_table.2691
+                0x0000000000000000      0x400 thirdparty/miniz/miniz.o
+ .rodata.s_error_descs.2829
+                0x0000000000000000       0xa0 thirdparty/miniz/miniz.o
+ .rodata.s_tdefl_large_dist_extra
+                0x0000000000000000       0x80 thirdparty/miniz/miniz.o
+ .rodata.s_tdefl_large_dist_sym
+                0x0000000000000000       0x80 thirdparty/miniz/miniz.o
+ .rodata.s_tdefl_len_extra
+                0x0000000000000000      0x100 thirdparty/miniz/miniz.o
+ .rodata.s_tdefl_len_sym
+                0x0000000000000000      0x200 thirdparty/miniz/miniz.o
+ .rodata.s_tdefl_num_probes
+                0x0000000000000000       0x2c thirdparty/miniz/miniz.o
+ .rodata.s_tdefl_small_dist_extra
+                0x0000000000000000      0x200 thirdparty/miniz/miniz.o
+ .rodata.s_tdefl_small_dist_sym
+                0x0000000000000000      0x200 thirdparty/miniz/miniz.o
+ .rodata.str1.8
+                0x0000000000000000      0x3c0 thirdparty/miniz/miniz.o
+ .rodata.tdefl_compress.str1.8
+                0x0000000000000000       0xab thirdparty/miniz/miniz.o
+ .rodata.tdefl_compress_buffer.str1.8
+                0x0000000000000000       0x13 thirdparty/miniz/miniz.o
+ .rodata.tdefl_compress_lz_codes.str1.8
+                0x0000000000000000       0x75 thirdparty/miniz/miniz.o
+ .rodata.tdefl_flush_block.str1.8
+                0x0000000000000000       0x48 thirdparty/miniz/miniz.o
+ .sdata2.chans.3399
+                0x0000000000000000        0x5 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000      0x174 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x22 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x52 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x19 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x94 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x34 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x34 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x1c thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x57 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0xfd thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x6a thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000      0x1df thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x16 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x35 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x16 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x43 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x34 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x10 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x58 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000      0x182 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000      0x339 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x16 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x29 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000000000       0x16 thirdparty/miniz/miniz.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+envm             0x0000000020220100 0x000000000001ff00 xr
+dtim             0x0000000001000000 0x0000000000002000 xrw
+e51_itim         0x0000000001800000 0x0000000000007000 xrw
+u54_1_itim       0x0000000001808000 0x0000000000007000 xrw
+u54_2_itim       0x0000000001810000 0x0000000000007000 xrw
+u54_3_itim       0x0000000001818000 0x0000000000007000 xrw
+u54_4_itim       0x0000000001820000 0x0000000000007000 xrw
+l2lim            0x0000000008000000 0x00000000001bc000 xrw
+l2lim_stack      0x00000000081bc000 0x0000000000014000 xrw
+l2lim_heap       0x00000000081d0000 0x0000000000010000 xrw
+l2zerodevice     0x000000000a000000 0x0000000000080000 xrw
+ddr              0x0000000080000000 0x0000000040000000 xrw
+ddrhi            0x0000001400000000 0x0000000040000000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD envm-wrapper/envm-wrapper_crt.o
+LOAD envm-wrapper/envm-wrapper_validate_crc.o
+LOAD envm-wrapper/envm-wrapper_stubs.o
+LOAD application/hart0/hss_clock.o
+LOAD init/hss_sys_setup.o
+LOAD modules/misc/hss_crc32.o
+LOAD baremetal/polarfire-soc-bare-metal-library/src/platform/mpfs_hal/common/mss_l2_cache.o
+LOAD modules/misc/csr_helper.o
+LOAD modules/misc/assert.o
+LOAD modules/misc/c_stubs.o
+LOAD modules/misc/stack_guard.o
+LOAD thirdparty/miniz/miniz.o
+                [!provide]                        PROVIDE (HEAP_SIZE = 0x10000)
+                0x0000000000004000                PROVIDE (STACK_SIZE_PER_HART = 0x4000)
+                0x0000000020220100                PROVIDE (__envm_start = ORIGIN (envm))
+                [!provide]                        PROVIDE (__envm_end = (ORIGIN (envm) + LENGTH (envm)))
+                0x0000000008000000                PROVIDE (__l2lim_start = ORIGIN (l2lim))
+                [!provide]                        PROVIDE (__l2lim_end = (ORIGIN (l2lim) + LENGTH (l2lim)))
+                [!provide]                        PROVIDE (__ddr_start = ORIGIN (ddr))
+                [!provide]                        PROVIDE (__ddr_end = (ORIGIN (ddr) + LENGTH (ddr)))
+                [!provide]                        PROVIDE (__ddrhi_start = ORIGIN (ddrhi))
+                [!provide]                        PROVIDE (__ddrhi_end = (ORIGIN (ddrhi) + LENGTH (ddrhi)))
+                0x0000000001000000                PROVIDE (__dtim_start = ORIGIN (dtim))
+                0x0000000001002000                PROVIDE (__dtim_end = (ORIGIN (dtim) + LENGTH (dtim)))
+                [!provide]                        PROVIDE (__e51itim_start = ORIGIN (e51_itim))
+                [!provide]                        PROVIDE (__e51itim_end = (ORIGIN (e51_itim) + LENGTH (e51_itim)))
+                [!provide]                        PROVIDE (__u54_1_itim_start = ORIGIN (u54_1_itim))
+                [!provide]                        PROVIDE (__u54_1_itim_end = (ORIGIN (u54_1_itim) + LENGTH (u54_1_itim)))
+                [!provide]                        PROVIDE (__u54_2_itim_start = ORIGIN (u54_2_itim))
+                [!provide]                        PROVIDE (__u54_2_itim_end = (ORIGIN (u54_2_itim) + LENGTH (u54_2_itim)))
+                [!provide]                        PROVIDE (__u54_3_itim_start = ORIGIN (u54_3_itim))
+                [!provide]                        PROVIDE (__u54_3_itim_end = (ORIGIN (u54_3_itim) + LENGTH (u54_3_itim)))
+                [!provide]                        PROVIDE (__u54_4_itim_start = ORIGIN (u54_4_itim))
+                [!provide]                        PROVIDE (__u54_4_itim_end = (ORIGIN (u54_4_itim) + LENGTH (u54_4_itim)))
+                0x0000000008000000                PROVIDE (__l2lim_start = ORIGIN (l2lim))
+                [!provide]                        PROVIDE (__l2lim_end = (ORIGIN (l2lim) + LENGTH (l2lim)))
+                0x0000000008000000                PROVIDE (_hss_start = __l2lim_start)
+                0x00000000081d0000                PROVIDE (__l2lim_heap_base = ORIGIN (l2lim_heap))
+                0x00000000081e0000                PROVIDE (__l2lim_heap_end = (ORIGIN (l2lim_heap) + LENGTH (l2lim_heap)))
+                0x0000000020220100                . = __envm_start
+
+.text           0x0000000020220100    0x18070
+ *(.entry)
+ .entry         0x0000000020220100      0x156 envm-wrapper/envm-wrapper_crt.o
+                0x0000000020220100                _start
+                0x0000000020220260                . = ALIGN (0x10)
+ *fill*         0x0000000020220256        0xa 
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x0000000020220260    0x15ee0 envm-wrapper/envm-wrapper_crt.o
+                0x000000002022026e                copy_section
+                0x0000000020220282                init_memory
+                0x000000002022031a                config_copy
+                0x0000000020220370                hss_l2lim_lz
+ .text.validate_crc
+                0x0000000020236140       0x32 envm-wrapper/envm-wrapper_validate_crc.o
+                0x0000000020236140                validate_crc
+ .text.HSS_Debug_Timestamp
+                0x0000000020236172        0x2 envm-wrapper/envm-wrapper_stubs.o
+                0x0000000020236172                HSS_Debug_Timestamp
+ .text.HSS_Debug_Highlight
+                0x0000000020236174        0x2 envm-wrapper/envm-wrapper_stubs.o
+                0x0000000020236174                HSS_Debug_Highlight
+ .text.sbi_printf
+                0x0000000020236176       0x16 envm-wrapper/envm-wrapper_stubs.o
+                0x0000000020236176                sbi_printf
+ .text.sbi_memcpy
+                0x000000002023618c       0x1c envm-wrapper/envm-wrapper_stubs.o
+                0x000000002023618c                sbi_memcpy
+ .text.sbi_memset
+                0x00000000202361a8       0x12 envm-wrapper/envm-wrapper_stubs.o
+                0x00000000202361a8                sbi_memset
+ .text.sbi_puts
+                0x00000000202361ba        0x2 envm-wrapper/envm-wrapper_stubs.o
+                0x00000000202361ba                sbi_puts
+ .text.malloc   0x00000000202361bc       0x12 envm-wrapper/envm-wrapper_stubs.o
+                0x00000000202361bc                malloc
+ .text.free     0x00000000202361ce        0x2 envm-wrapper/envm-wrapper_stubs.o
+                0x00000000202361ce                free
+ .text.HSS_Setup_Clocks
+                0x00000000202361d0       0x30 init/hss_sys_setup.o
+                0x00000000202361d0                HSS_Setup_Clocks
+ .text.CRC32_calculate_ex
+                0x0000000020236200       0x36 modules/misc/hss_crc32.o
+                0x0000000020236200                CRC32_calculate_ex
+ .text.CRC32_calculate
+                0x0000000020236236        0xe modules/misc/hss_crc32.o
+                0x0000000020236236                CRC32_calculate
+ .text.__assert_func
+                0x0000000020236244       0x6a modules/misc/assert.o
+                0x0000000020236244                __assert_func
+ .text.memcpy   0x00000000202362ae       0x5e modules/misc/c_stubs.o
+                0x00000000202362ae                memcpy
+ .text.memset   0x000000002023630c        0x8 modules/misc/c_stubs.o
+                0x000000002023630c                memset
+ .text.__stack_chk_fail
+                0x0000000020236314       0x1c modules/misc/stack_guard.o
+                0x0000000020236314                __stack_chk_fail
+ .text.miniz_def_free_func
+                0x0000000020236330        0xa thirdparty/miniz/miniz.o
+                0x0000000020236330                miniz_def_free_func
+ .text.miniz_def_alloc_func
+                0x000000002023633a        0xc thirdparty/miniz/miniz.o
+                0x000000002023633a                miniz_def_alloc_func
+ .text.mz_deflateEnd
+                0x0000000020236346       0x28 thirdparty/miniz/miniz.o
+                0x0000000020236346                mz_deflateEnd
+ .text.mz_inflateInit2
+                0x000000002023636e       0x9c thirdparty/miniz/miniz.o
+                0x000000002023636e                mz_inflateInit2
+ .text.mz_inflateInit
+                0x000000002023640a        0xa thirdparty/miniz/miniz.o
+                0x000000002023640a                mz_inflateInit
+ .text.tinfl_decompress
+                0x0000000020236414     0x1152 thirdparty/miniz/miniz.o
+                0x0000000020236414                tinfl_decompress
+ .text.mz_inflate
+                0x0000000020237566      0x2ce thirdparty/miniz/miniz.o
+                0x0000000020237566                mz_inflate
+ .text.mz_uncompress
+                0x0000000020237834       0xc2 thirdparty/miniz/miniz.o
+                0x0000000020237834                mz_uncompress
+ *(.plt)
+                0x0000000020237900                . = ALIGN (0x10)
+ *fill*         0x00000000202378f6        0xa 
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *crtend.o(.ctors)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *crtend.o(.dtors)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.precalcTable_
+                0x0000000020237900      0x400 modules/misc/hss_crc32.o
+ .rodata.__assert_func.str1.8
+                0x0000000020237d00       0x2b modules/misc/assert.o
+ *fill*         0x0000000020237d2b        0x5 
+ .rodata.__func__.1852
+                0x0000000020237d30        0xe modules/misc/assert.o
+ *fill*         0x0000000020237d3e        0x2 
+ .rodata.memcpy.str1.8
+                0x0000000020237d40       0x46 modules/misc/c_stubs.o
+ *fill*         0x0000000020237d86        0x2 
+ .rodata.__stack_chk_fail.str1.8
+                0x0000000020237d88       0x31 modules/misc/stack_guard.o
+ *fill*         0x0000000020237db9        0x3 
+ .rodata.tinfl_decompress
+                0x0000000020237dbc       0xd8 thirdparty/miniz/miniz.o
+ *fill*         0x0000000020237e94        0x4 
+ .rodata.__func__.3701
+                0x0000000020237e98       0x11 thirdparty/miniz/miniz.o
+ *fill*         0x0000000020237ea9        0x7 
+ .rodata.s_dist_base.3431
+                0x0000000020237eb0       0x80 thirdparty/miniz/miniz.o
+ .rodata.s_dist_extra.3432
+                0x0000000020237f30       0x80 thirdparty/miniz/miniz.o
+ .rodata.s_length_base.3429
+                0x0000000020237fb0       0x7c thirdparty/miniz/miniz.o
+ *fill*         0x000000002023802c        0x4 
+ .rodata.s_length_extra.3430
+                0x0000000020238030       0x7c thirdparty/miniz/miniz.o
+ *fill*         0x00000000202380ac        0x4 
+ .rodata.s_min_table_sizes.3434
+                0x00000000202380b0        0xc thirdparty/miniz/miniz.o
+ *fill*         0x00000000202380bc        0x4 
+ .rodata.s_tdefl_packed_code_size_syms_swizzle
+                0x00000000202380c0       0x13 thirdparty/miniz/miniz.o
+ *fill*         0x00000000202380d3        0x5 
+ .rodata.tdefl_start_dynamic_block.str1.8
+                0x00000000202380d8       0x64 thirdparty/miniz/miniz.o
+ *fill*         0x000000002023813c        0x4 
+ .rodata.tinfl_decompress.str1.8
+                0x0000000020238140       0x20 thirdparty/miniz/miniz.o
+                                         0x1c (size before relaxing)
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata*)
+ *(.sdata2*)
+ .sdata2.__func__.2327
+                0x0000000020238160        0x7 modules/misc/c_stubs.o
+ *fill*         0x0000000020238167        0x1 
+ .sdata2.__stack_chk_guard
+                0x0000000020238168        0x8 modules/misc/stack_guard.o
+                0x0000000020238168                __stack_chk_guard
+ *(.gcc_except_table)
+ *(.eh_frame_hdr)
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = .)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(.fini_array)
+ *(SORT_BY_NAME(.fini_array.*))
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000020238170                . = ALIGN (0x10)
+
+.gnu_build_id   0x0000000020238170       0x24
+                [!provide]                        PROVIDE (gnu_build_id = .)
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000020238170       0x24 envm-wrapper/envm-wrapper_crt.o
+                [!provide]                        PROVIDE (_hss_end = .)
+
+.rela.dyn       0x0000000020238198        0x0
+ .rela.text     0x0000000020238198        0x0 envm-wrapper/envm-wrapper_crt.o
+ .rela.entry    0x0000000020238198        0x0 envm-wrapper/envm-wrapper_crt.o
+ .rela.text.validate_crc
+                0x0000000020238198        0x0 envm-wrapper/envm-wrapper_crt.o
+ .rela.sdata.malloc_base
+                0x0000000020238198        0x0 envm-wrapper/envm-wrapper_crt.o
+ .rela.text.tinfl_decompress
+                0x0000000020238198        0x0 envm-wrapper/envm-wrapper_crt.o
+ .rela.text.mz_inflate
+                0x0000000020238198        0x0 envm-wrapper/envm-wrapper_crt.o
+ .rela.text.mz_uncompress
+                0x0000000020238198        0x0 envm-wrapper/envm-wrapper_crt.o
+
+.l2_scratchpad  0x0000000008000000        0x0 load address 0x00000000202381a0
+                0x00000000202381a0                __l2_scratchpad_load = LOADADDR (.l2_scratchpad)
+                0x0000000008000000                __l2_scratchpad_start = .
+                0x0000000008000000                __l2_scratchpad_vma_start = .
+ *(.l2_scratchpad)
+                0x0000000008000000                . = ALIGN (0x10)
+                0x0000000008000000                __l2_scratchpad_end = .
+                0x0000000008000000                __l2_scratchpad_vma_end = .
+
+.sdata          0x0000000001000000       0x10 load address 0x00000000202381c0
+                0x00000000202381c0                __sdata_load = LOADADDR (.sdata)
+                0x0000000001000000                __sdata_start = .
+                0x0000000001000800                __global_pointer$ = (. + 0x800)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata.malloc_base
+                0x0000000001000000        0x8 envm-wrapper/envm-wrapper_stubs.o
+                0x0000000001000000                malloc_base
+                0x0000000001000010                . = ALIGN (0x10)
+ *fill*         0x0000000001000008        0x8 
+                0x0000000001000010                __sdata_end = .
+
+.data           0x0000000001000100       0x20 load address 0x0000000020238200
+                0x0000000020238200                __data_load = LOADADDR (.data)
+                0x0000000001000100                __data_start = .
+ *(.got.plt)
+ *(.got)
+ *(.shdata)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000001000100       0x14 envm-wrapper/envm-wrapper_crt.o
+                0x0000000001000120                . = ALIGN (0x10)
+ *fill*         0x0000000001000114        0xc 
+                0x0000000001000120                __data_end = .
+
+.sbss           0x0000000001000140        0x0 load address 0x0000000020238240
+                0x0000000001000140                __sbss_start = .
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ *(.scommon)
+                0x0000000001000140                . = ALIGN (0x10)
+                0x0000000001000140                __sbss_end = .
+
+.bss            0x0000000001000140        0x0 load address 0x0000000020238240
+                0x0000000001000140                __bss_start = .
+ *(.shbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ *(COMMON)
+                0x0000000001000140                . = ALIGN (0x10)
+                0x0000000001000140                __bss_end = .
+
+.stack          0x00000000081bc000    0x14000
+                0x00000000081bc000                __stack_bottom = .
+                0x00000000081bc000                __stack_bottom_h0$ = .
+                0x00000000081c0000                . = (. + STACK_SIZE_PER_HART)
+ *fill*         0x00000000081bc000     0x4000 
+                0x00000000081bfff8                __stack_top_h0$ = (. - 0x8)
+                0x00000000081c0000                __stack_bottom_h1$ = .
+                0x00000000081c4000                . = (. + STACK_SIZE_PER_HART)
+ *fill*         0x00000000081c0000     0x4000 
+                0x00000000081c3ff8                __stack_top_h1$ = (. - 0x8)
+                0x00000000081c4000                __stack_bottom_h2$ = .
+                0x00000000081c8000                . = (. + STACK_SIZE_PER_HART)
+ *fill*         0x00000000081c4000     0x4000 
+                0x00000000081c7ff8                __stack_top_h2$ = (. - 0x8)
+                0x00000000081c8000                __stack_bottom_h3$ = .
+                0x00000000081cc000                . = (. + STACK_SIZE_PER_HART)
+ *fill*         0x00000000081c8000     0x4000 
+                0x00000000081cbff8                __stack_top_h3$ = (. - 0x8)
+                0x00000000081cc000                __stack_bottom_h4$ = .
+                0x00000000081d0000                . = (. + STACK_SIZE_PER_HART)
+ *fill*         0x00000000081cc000     0x4000 
+                0x00000000081cfff8                __stack_top_h4$ = (. - 0x8)
+                0x00000000081cfff8                __stack_top = (. - 0x8)
+                0x00000000081d0000                _end = .
+OUTPUT(Default/hss-envm-wrapper.elf elf64-littleriscv)
+
+.riscv.attributes
+                0x0000000000000000       0x2b
+ .riscv.attributes
+                0x0000000000000000       0x2b envm-wrapper/envm-wrapper_crt.o
+ .riscv.attributes
+                0x000000000000002b       0x2b envm-wrapper/envm-wrapper_validate_crc.o
+ .riscv.attributes
+                0x0000000000000056       0x2b envm-wrapper/envm-wrapper_stubs.o
+ .riscv.attributes
+                0x0000000000000081       0x2b init/hss_sys_setup.o
+ .riscv.attributes
+                0x00000000000000ac       0x2b modules/misc/hss_crc32.o
+ .riscv.attributes
+                0x00000000000000d7       0x2b modules/misc/assert.o
+ .riscv.attributes
+                0x0000000000000102       0x2b modules/misc/c_stubs.o
+ .riscv.attributes
+                0x000000000000012d       0x2b modules/misc/stack_guard.o
+ .riscv.attributes
+                0x0000000000000158       0x2b thirdparty/miniz/miniz.o
+
+.comment        0x0000000000000000       0x51
+ .comment       0x0000000000000000       0x51 envm-wrapper/envm-wrapper_validate_crc.o
+                                         0x52 (size before relaxing)
+ .comment       0x0000000000000051       0x52 envm-wrapper/envm-wrapper_stubs.o
+ .comment       0x0000000000000051       0x52 init/hss_sys_setup.o
+ .comment       0x0000000000000051       0x52 modules/misc/hss_crc32.o
+ .comment       0x0000000000000051       0x52 modules/misc/assert.o
+ .comment       0x0000000000000051       0x52 modules/misc/c_stubs.o
+ .comment       0x0000000000000051       0x52 modules/misc/stack_guard.o
+ .comment       0x0000000000000051       0x52 thirdparty/miniz/miniz.o
+
+.debug_line     0x0000000000000000    0x18640
+ .debug_line    0x0000000000000000      0x3c5 envm-wrapper/envm-wrapper_crt.o
+ .debug_line    0x00000000000003c5      0x47a envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_line    0x000000000000083f      0x54e envm-wrapper/envm-wrapper_stubs.o
+ .debug_line    0x0000000000000d8d      0xab6 init/hss_sys_setup.o
+ .debug_line    0x0000000000001843      0x414 modules/misc/hss_crc32.o
+ .debug_line    0x0000000000001c57      0x418 modules/misc/assert.o
+ .debug_line    0x000000000000206f      0xbcc modules/misc/c_stubs.o
+ .debug_line    0x0000000000002c3b      0x385 modules/misc/stack_guard.o
+ .debug_line    0x0000000000002fc0    0x15680 thirdparty/miniz/miniz.o
+
+.debug_info     0x0000000000000000    0x15da2
+ .debug_info    0x0000000000000000       0x22 envm-wrapper/envm-wrapper_crt.o
+ .debug_info    0x0000000000000022      0xed4 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_info    0x0000000000000ef6      0x3ab envm-wrapper/envm-wrapper_stubs.o
+ .debug_info    0x00000000000012a1     0x2173 init/hss_sys_setup.o
+ .debug_info    0x0000000000003414      0x253 modules/misc/hss_crc32.o
+ .debug_info    0x0000000000003667      0xb52 modules/misc/assert.o
+ .debug_info    0x00000000000041b9     0x1006 modules/misc/c_stubs.o
+ .debug_info    0x00000000000051bf      0x133 modules/misc/stack_guard.o
+ .debug_info    0x00000000000052f2    0x10ab0 thirdparty/miniz/miniz.o
+
+.debug_abbrev   0x0000000000000000     0x1668
+ .debug_abbrev  0x0000000000000000       0x12 envm-wrapper/envm-wrapper_crt.o
+ .debug_abbrev  0x0000000000000012      0x25d envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_abbrev  0x000000000000026f      0x1be envm-wrapper/envm-wrapper_stubs.o
+ .debug_abbrev  0x000000000000042d      0x379 init/hss_sys_setup.o
+ .debug_abbrev  0x00000000000007a6      0x153 modules/misc/hss_crc32.o
+ .debug_abbrev  0x00000000000008f9      0x262 modules/misc/assert.o
+ .debug_abbrev  0x0000000000000b5b      0x308 modules/misc/c_stubs.o
+ .debug_abbrev  0x0000000000000e63       0xc5 modules/misc/stack_guard.o
+ .debug_abbrev  0x0000000000000f28      0x740 thirdparty/miniz/miniz.o
+
+.debug_aranges  0x0000000000000000      0xae0
+ .debug_aranges
+                0x0000000000000000       0x40 envm-wrapper/envm-wrapper_crt.o
+ .debug_aranges
+                0x0000000000000040       0x30 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_aranges
+                0x0000000000000070       0xb0 envm-wrapper/envm-wrapper_stubs.o
+ .debug_aranges
+                0x0000000000000120       0x80 init/hss_sys_setup.o
+ .debug_aranges
+                0x00000000000001a0       0x40 modules/misc/hss_crc32.o
+ .debug_aranges
+                0x00000000000001e0       0x40 modules/misc/assert.o
+ .debug_aranges
+                0x0000000000000220       0xd0 modules/misc/c_stubs.o
+ .debug_aranges
+                0x00000000000002f0       0x40 modules/misc/stack_guard.o
+ .debug_aranges
+                0x0000000000000330      0x7b0 thirdparty/miniz/miniz.o
+
+.debug_str      0x0000000000000000    0x33a8f
+ .debug_str     0x0000000000000000       0x70 envm-wrapper/envm-wrapper_crt.o
+ .debug_str     0x0000000000000070     0x76a5 envm-wrapper/envm-wrapper_validate_crc.o
+                                       0x7973 (size before relaxing)
+ .debug_str     0x0000000000007715     0x1bd9 envm-wrapper/envm-wrapper_stubs.o
+                                       0x5f04 (size before relaxing)
+ .debug_str     0x00000000000092ee    0x24a42 init/hss_sys_setup.o
+                                      0x2cfa9 (size before relaxing)
+ .debug_str     0x000000000002dd30       0x91 modules/misc/hss_crc32.o
+                                       0x5dbe (size before relaxing)
+ .debug_str     0x000000000002ddc1      0x133 modules/misc/assert.o
+                                       0x87b8 (size before relaxing)
+ .debug_str     0x000000000002def4      0x1c7 modules/misc/c_stubs.o
+                                       0xcf7b (size before relaxing)
+ .debug_str     0x000000000002e0bb       0x56 modules/misc/stack_guard.o
+                                       0x5dc8 (size before relaxing)
+ .debug_str     0x000000000002e111     0x597e thirdparty/miniz/miniz.o
+                                       0xc5b3 (size before relaxing)
+
+.debug_ranges   0x0000000000000000     0x5aa0
+ .debug_ranges  0x0000000000000000       0x40 envm-wrapper/envm-wrapper_crt.o
+ .debug_ranges  0x0000000000000040       0x20 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_ranges  0x0000000000000060       0xa0 envm-wrapper/envm-wrapper_stubs.o
+ .debug_ranges  0x0000000000000100      0x150 init/hss_sys_setup.o
+ .debug_ranges  0x0000000000000250       0x70 modules/misc/hss_crc32.o
+ .debug_ranges  0x00000000000002c0       0x30 modules/misc/assert.o
+ .debug_ranges  0x00000000000002f0      0x1a0 modules/misc/c_stubs.o
+ .debug_ranges  0x0000000000000490       0x30 modules/misc/stack_guard.o
+ .debug_ranges  0x00000000000004c0     0x55e0 thirdparty/miniz/miniz.o
+
+.debug_macro    0x0000000000000000     0x8494
+ .debug_macro   0x0000000000000000      0x1c0 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x00000000000001c0      0x790 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000000950      0x174 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000000ac4       0x22 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000000ae6       0x52 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000000b38       0x19 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000000b51       0x5c envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000000bad       0x34 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000000be1       0x34 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000000c15       0x57 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000000c6c      0x339 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000000fa5       0x10 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000000fb5       0x16 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000000fcb       0x43 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x000000000000100e       0x34 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000001042       0x6a envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x00000000000010ac       0xb2 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x000000000000115e       0x22 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000001180       0xfd envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x000000000000127d      0x1df envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x000000000000145c       0x76 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x00000000000014d2       0x1c envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x00000000000014ee       0x16 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000001504       0x3a envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x000000000000153e       0x1c envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x000000000000155a       0x58 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x00000000000015b2      0x17e envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000001730       0x10 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000001740       0x58 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x0000000000001798      0x182 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x000000000000191a       0x10 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x000000000000192a       0x35 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x000000000000195f       0x10 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_macro   0x000000000000196f      0x10d envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000001a7c      0x11e envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000001b9a       0x88 envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000001c22       0x6d envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000001c8f       0x3a envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000001cc9      0x4cc envm-wrapper/envm-wrapper_stubs.o
+ .debug_macro   0x0000000000002195      0x2d0 init/hss_sys_setup.o
+ .debug_macro   0x0000000000002465      0x78a init/hss_sys_setup.o
+ .debug_macro   0x0000000000002bef       0x94 init/hss_sys_setup.o
+ .debug_macro   0x0000000000002c83       0x10 init/hss_sys_setup.o
+ .debug_macro   0x0000000000002c93     0x3bba init/hss_sys_setup.o
+ .debug_macro   0x000000000000684d       0x10 init/hss_sys_setup.o
+ .debug_macro   0x000000000000685d       0x87 init/hss_sys_setup.o
+ .debug_macro   0x00000000000068e4      0x325 init/hss_sys_setup.o
+ .debug_macro   0x0000000000006c09       0x28 init/hss_sys_setup.o
+ .debug_macro   0x0000000000006c31       0x22 init/hss_sys_setup.o
+ .debug_macro   0x0000000000006c53       0xfb init/hss_sys_setup.o
+ .debug_macro   0x0000000000006d4e       0x22 init/hss_sys_setup.o
+ .debug_macro   0x0000000000006d70       0x22 init/hss_sys_setup.o
+ .debug_macro   0x0000000000006d92      0x3e6 init/hss_sys_setup.o
+ .debug_macro   0x0000000000007178      0x110 modules/misc/hss_crc32.o
+ .debug_macro   0x0000000000007288      0x191 modules/misc/assert.o
+ .debug_macro   0x0000000000007419       0x16 modules/misc/assert.o
+ .debug_macro   0x000000000000742f       0x16 modules/misc/assert.o
+ .debug_macro   0x0000000000007445       0x29 modules/misc/assert.o
+ .debug_macro   0x000000000000746e      0x251 modules/misc/c_stubs.o
+ .debug_macro   0x00000000000076bf       0x58 modules/misc/c_stubs.o
+ .debug_macro   0x0000000000007717      0x104 modules/misc/stack_guard.o
+ .debug_macro   0x000000000000781b      0x226 thirdparty/miniz/miniz.o
+ .debug_macro   0x0000000000007a41      0x796 thirdparty/miniz/miniz.o
+ .debug_macro   0x00000000000081d7      0x20a thirdparty/miniz/miniz.o
+ .debug_macro   0x00000000000083e1       0xb3 thirdparty/miniz/miniz.o
+
+.debug_frame    0x0000000000000000     0x1b70
+ .debug_frame   0x0000000000000000       0x38 envm-wrapper/envm-wrapper_validate_crc.o
+ .debug_frame   0x0000000000000038      0x108 envm-wrapper/envm-wrapper_stubs.o
+ .debug_frame   0x0000000000000140       0xf0 init/hss_sys_setup.o
+ .debug_frame   0x0000000000000230       0x40 modules/misc/hss_crc32.o
+ .debug_frame   0x0000000000000270       0x58 modules/misc/assert.o
+ .debug_frame   0x00000000000002c8      0x170 modules/misc/c_stubs.o
+ .debug_frame   0x0000000000000438       0x50 modules/misc/stack_guard.o
+ .debug_frame   0x0000000000000488     0x16e8 thirdparty/miniz/miniz.o
+
+.debug_loc      0x0000000000000000    0x21adf
+ .debug_loc     0x0000000000000000      0x235 envm-wrapper/envm-wrapper_stubs.o
+ .debug_loc     0x0000000000000235      0x121 init/hss_sys_setup.o
+ .debug_loc     0x0000000000000356      0x279 modules/misc/hss_crc32.o
+ .debug_loc     0x00000000000005cf      0x1c1 modules/misc/assert.o
+ .debug_loc     0x0000000000000790      0xe75 modules/misc/c_stubs.o
+ .debug_loc     0x0000000000001605    0x204da thirdparty/miniz/miniz.o
