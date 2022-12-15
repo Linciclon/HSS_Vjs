@@ -8,10 +8,11 @@
 -------------------------
 
 
-Note: All modifications here were applied over HSS 2021.11 version:
+Note: 
+- All modifications here were applied over HSS 2021.11 version:
 https://github.com/polarfire-soc/hart-software-services/releases
 
-
+- If you'r curios about change searsh for tag *FIX* at all repo
 -----------------
 
 ## With this repo:
