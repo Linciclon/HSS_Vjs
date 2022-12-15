@@ -76,7 +76,7 @@ static void boot_download_chunks_handler(struct StateMachine * const pMyMachine)
 static void boot_download_chunks_onExit(struct StateMachine * const pMyMachine);
 static void boot_opensbi_init_onEntry(struct StateMachine * const pMyMachine);
 static void boot_opensbi_init_handler(struct StateMachine * const pMyMachine);
-//static void boot_opensbi_init_onExit(struct StateMachine * const pMyMachine); //joao
+//static void boot_opensbi_init_onExit(struct StateMachine * const pMyMachine); //FIX
 static void boot_wait_onEntry(struct StateMachine * const pMyMachine);
 static void boot_wait_handler(struct StateMachine * const pMyMachine);
 static void boot_error_handler(struct StateMachine * const pMyMachine);
@@ -114,7 +114,7 @@ static const struct StateDesc boot_state_descs[] = {
     { (const stateType_t)BOOT_SETUP_PMP_COMPLETE, (const char *)"SetupPMPComplete", &boot_setup_pmp_complete_onEntry, NULL,                         &boot_setup_pmp_complete_handler },
     { (const stateType_t)BOOT_ZERO_INIT_CHUNKS,   (const char *)"ZeroInit",         &boot_zero_init_chunks_onEntry,   NULL,                         &boot_zero_init_chunks_handler },
     { (const stateType_t)BOOT_DOWNLOAD_CHUNKS,    (const char *)"Download",         &boot_download_chunks_onEntry,    &boot_download_chunks_onExit, &boot_download_chunks_handler },
-    //{ (const stateType_t)BOOT_OPENSBI_INIT,       (const char *)"OpenSBIInit",      &boot_opensbi_init_onEntry,       &boot_opensbi_init_onExit,    &boot_opensbi_init_handler }, //joao
+    //{ (const stateType_t)BOOT_OPENSBI_INIT,       (const char *)"OpenSBIInit",      &boot_opensbi_init_onEntry,       &boot_opensbi_init_onExit,    &boot_opensbi_init_handler }, //FIX
     { (const stateType_t)BOOT_OPENSBI_INIT,       (const char *)"OpenSBIInit",      &boot_opensbi_init_onEntry,       NULL,                         &boot_opensbi_init_handler },
     { (const stateType_t)BOOT_WAIT,               (const char *)"Wait",             &boot_wait_onEntry,               NULL,                         &boot_wait_handler },
     { (const stateType_t)BOOT_IDLE,               (const char *)"Idle",             &boot_idle_onEntry,               NULL,                         &boot_idle_handler },
@@ -636,7 +636,7 @@ static void boot_opensbi_init_handler(struct StateMachine * const pMyMachine)
                             peer, pBootImage->hart[peer-1].entryPoint);
 
                         result = IPI_MessageDeliver(pInstanceData->msgIndexAux[peer-1], peer,
-                            IPI_MSG_GOTO, //IPI_MSG_OPENSBI_INIT, //joao 
+                            IPI_MSG_GOTO, //IPI_MSG_OPENSBI_INIT, //FIX 
                             pBootImage->hart[peer-1].privMode,
                             (void *)pBootImage->hart[peer-1].entryPoint,
                             (void *)pInstanceData->ancilliaryData);
@@ -651,21 +651,21 @@ static void boot_opensbi_init_handler(struct StateMachine * const pMyMachine)
                 }
                 pInstanceData->iterator++;
             } else {
-                //pMyMachine->state = BOOT_WAIT;//joao
-                //pMyMachine->state = BOOT_IDLE; //joao
+                //pMyMachine->state = BOOT_WAIT;//FIX
+                //pMyMachine->state = BOOT_IDLE; //FIX
                         
-                result = IPI_MessageAlloc(&(pInstanceData->msgIndex)); //joao
-                assert(result); //joao
-                mb();//joao
-                mb_i();//joao
-                result = IPI_MessageDeliver(pInstanceData->msgIndex, target, //joao
+                result = IPI_MessageAlloc(&(pInstanceData->msgIndex)); //FIX
+                assert(result); //FIX
+                mb();//FIX
+                mb_i();//FIX
+                result = IPI_MessageDeliver(pInstanceData->msgIndex, target, //FIX
                 IPI_MSG_GOTO,
                 pBootImage->hart[target-1].privMode,
                 (void *)pBootImage->hart[target-1].entryPoint,
                 (void *)pInstanceData->ancilliaryData);
-                assert(result); //joao
+                assert(result); //FIX
 
-                pMyMachine->state = BOOT_IDLE; //joao
+                pMyMachine->state = BOOT_IDLE; //FIX
 
             }
         } else {
